@@ -1,0 +1,19 @@
+M-10 
+1-200
+2-150
+3-100
+4-60
+1-2-5-10
+1-5-8-20
+1-8-M-25
+2-2-4-05
+2-4-7-15
+2-7-M-20
+3-2-5-15
+3-5-8-30
+3-8-M-35
+4-2-4-05
+4-4-7-10
+4-7-M-15
+M => (Maximum number of ticket purchases)
+(Category)-(Min number of tickets)-(Max number of tickets)-(Discount rate)
